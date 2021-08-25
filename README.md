@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <details>
     <summary>
-        <h3>Json</h3>
+        Json
     </summary>
     
     ```json
