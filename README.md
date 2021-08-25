@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <details>
-  <summary>
-    ### open
-  </summary>
+    <summary>
+        <h3>Json</h3>
+    </summary>
 
   ```json
     {
