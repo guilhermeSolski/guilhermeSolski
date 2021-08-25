@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <details>
   <summary>
-    open
+    ### open
   </summary>
 
   <h2 id="header">Header</h2>
