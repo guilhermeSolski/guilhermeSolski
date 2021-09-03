@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <br>
 <details>
     <summary> Add information </summary>
-    > Add Divison fild:
-    >> This field is an enum that defines where the information is coming from (Fuels or Lubes).
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+>> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
     
 </details>
