@@ -19,11 +19,31 @@ Here are some ideas to get you started:
 
 
 <details>
-    <summary> Uml </summary>
 
-> Dorothy followed her through many of the beautiful rooms in her castle.
+    <summary> Add information </summary>
+
+> Add Divison fild.
 >
 >> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
+</details>
+
+<br>
+
+<details>
+
+    <summary> Remove information </summary>
 
 </details>
+
+<br>
+
+<details>
+
+    <summary> Mapping information </summary>
+
+</details>
+
+<br>
+
+## Hcl Payload
