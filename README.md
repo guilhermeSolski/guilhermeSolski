@@ -14,17 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Transformation
+<br>
 <details>
-    <summary>
-        Json
-    </summary>
-    
-    ```json
-    
-    {
-      "teste": "teste"
-    }
-    
-    ```
-    
+    <summary> Add information </summary>
+    <details>
+        <summary> Add Divison fild </summary>
+        This field is an enum that defines where the information is coming from (Fuels or Lubes).
+    </details>
 </details>
