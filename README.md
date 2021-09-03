@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <br>
 <details>
     <summary> Add information </summary>
-    <details>
-        <summary> Add Divison fild </summary>
-        This field is an enum that defines where the information is coming from (Fuels or Lubes).
-    </details>
+    . **Add Divison fild**:  This field is an enum that defines where the information is coming from (Fuels or Lubes).
+    
 </details>
