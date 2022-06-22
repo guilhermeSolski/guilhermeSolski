@@ -7,7 +7,7 @@ Thanks <a href="https://github.com/anuraghazra/github-readme-stats"> @anuraghazr
 
 <div style="vertical-align:center">
   <img height=180em src="https://github-readme-stats.vercel.app/api?username=guilhermeSolski&theme=cobalt&show_icons=true&count_private=true&border_color=474444&text_color=CE6B87&icon_color=559e90" />
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeSolski&layout=compact&theme=cobalt&show_icons=true&count_private=true&border_color=474444&text_color559e90" />
+  <img height=180em src="https://github-readme-stats.vercel.app/api/wakatime/?username=guilhermeSolski&layout=compact&theme=cobalt&show_icons=true&count_private=true&border_color=474444&text_color559e90" />
 </div>
 
 <!---
